@@ -16,9 +16,11 @@ system.It maintains the information about the personal and official details of t
 
 
 ## Cost and Time Complexity:-
-  ## Time Complexity: O(Clog⁡N), where N is the number of employees, and C is the number of jobs across all employees.
+  ## Time Complexity:
+       O(Clog⁡N), where N is the number of employees, and C is the number of jobs across all employees.
        The maximum size of the heap is N, so each push and pop operation is O(log⁡N), and there are O(C) such operations.
-  ## Space Complexity: O(N) in additional space complexity.
+  ## Space Complexity:
+       O(N) in additional space complexity.
 
 # Defining System:-
 
