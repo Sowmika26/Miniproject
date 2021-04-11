@@ -24,7 +24,7 @@ system.It maintains the information about the personal and official details of t
 
 # Defining System:-
 
-<img src="https://github.com/Sowmika26/Miniproject/blob/main/Requirements/System.png">
+<img src="https://github.com/Sowmika26/Miniproject/blob/main/Requirements/system%20design.png">
 
 # Explanation:-
   ## Employee Management has some features.
