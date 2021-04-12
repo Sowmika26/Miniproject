@@ -6,6 +6,6 @@
 <img src="https://github.com/Sowmika26/Miniproject/blob/main/Designs/Usercase%20Diagram.png">
 
 
-# Flocharts of the Employee Management System:
+# Flowchart of the Employee Management System:
 ## Ems
 <img src="https://github.com/Sowmika26/Miniproject/blob/main/Designs/Flowchart.png">
