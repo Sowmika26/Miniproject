@@ -16,9 +16,10 @@ system.It maintains the information about the personal and official details of t
   4) The objective of this project is to provide a comprehensive approach towards the management of employee information. 
 
 # SDLC Activity Based Learning
-Build | Cppcheck | Valgrind | Unity | Codacy
-------|----------|-------|--------- | ------------
+Cppcheck | Unity | Codacy
+------ --|----------|-------|--------- | ------------
 [![C/C++ CI](https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml/badge.svg)]
+[![UNITY](https://github.com/Sowmika26/Miniproject/actions/workflows/unity.yml/badge.svg)]
 
 
 
