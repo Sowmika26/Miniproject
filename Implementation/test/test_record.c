@@ -1,6 +1,7 @@
 #include "record.h"
 #include "unity.h"
 
+Name =NULL;
 id result={0};
 /* Required by the unity test framework */
 void setUp()
@@ -12,7 +13,7 @@ void tearDown()
 }
 void test_add(void){
 
-    TEST_ASSERT_EQUAL(1,start->uniq_id);
+    TEST_ASSERT_EQUAL(1,start->id);
     TEST_ASSERT_EQUAL(1,start->Name);
 
 }
@@ -26,7 +27,25 @@ void test_display(void){
 void test_search(void){
     
     TEST_ASSERT_EQUAL(SUCCESS, find_by_id(start,260842,&result));
-    TEST_ASSERT_EQUAL(260842, result.uniq_id);
+    TEST_ASSERT_EQUAL(260842, result.id);
     TEST_ASSERT_EQUAL(0,find_by_id(start,260842,&result));
 
+}
+
+int main(void)
+{
+    /* Initiate the Unity Test Framework */
+    UNITY_BEGIN();
+
+    /* Run Test functions */
+    RUN_TEST(test_add);
+    RUN_TEST(test_search);
+
+    //RUN_TEST(test_display);
+    
+    RUN_TEST(test_delete);
+
+
+    /* Close the Unity Test Framework */
+    return UNITY_END();
 }
