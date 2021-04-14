@@ -19,13 +19,7 @@ system.It maintains the information about the personal and official details of t
 Build | Cppcheck | Valgrind | Unity | Codacy
 ------|----------|-------|--------- | ------------
 [![C/C++ CI](https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml/badge.svg)]
-(https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml) | [![cppcheck-action]
-(https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml/badge.svg)]
-(https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml) | [![Valgrind]
-(https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.ymlbadge.svg)]
-(https://github.com/Sowmika26/Miniproject/actions/workflows/unity.yml) | [![UNITY]
-(https://github.com/Sowmika26/Miniproject/actions/workflows/unity.yml/badge.svg)]
-(https://github.com/Sowmika26/Miniproject/actions/workflows/unity.yml) | [![Codacy Badge]
+
 
 
 ## Folder Structure
