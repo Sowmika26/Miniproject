@@ -16,16 +16,14 @@ system.It maintains the information about the personal and official details of t
   4) The objective of this project is to provide a comprehensive approach towards the management of employee information. 
 
 # SDLC Activity Based Learning
-Visit [Pages for Report -optional](using github.io option)
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
-[![C/C++ CI](https://github.com/Sowmika26/Miniproject/blob/main/.github/workflows/cpp.yml)]
-(https://github.com/Sowmika26/Miniproject/blob/main/.github/workflows/cpp.yml) | [![Static Cppcheck]
-(https://github.com/Sowmika26/Miniproject/blob/main/.github/workflows/cpp.yml)
-(https://github.com/Sowmika26/Miniproject/actions/workflows/unity.yml)| [![Unity - Unit Testing]
-(https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml)]
-(https://github.com/Sowmika26/Miniproject/blob/main/.github/workflows/cpp.yml)| [![Git Inspector]
+Build | Cppcheck | Unity 
+------|----------|-------|--------- | ------------
+[![C/C++ CI](https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml/badge.svg)]
+(https://github.com/Sowmika26/Miniproject/actions/workflows/c.yml)| [![cppcheck-action](
+https://github.com/Sowmika26/Miniproject/actions/workflows/c.ymll/badge.svg)]
+(https://github.com/Sowmika26/Miniproject/actions/workflows/unity.yml) | [![UNITY](
+ https://github.com/Sowmika26/Miniproject/actions/workflows/unity.yml/badge.svg)]]
 
 ## Folder Structure
 Folder             | Description
