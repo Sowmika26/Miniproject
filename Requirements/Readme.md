@@ -34,6 +34,9 @@ system.It maintains the information about the personal and official details of t
        Encrypted File (Binary).
        Easily Add, Delete, Modify Records.
        Various Essential Queries.
+# SWOT Analysis:
+  <img src="https://github.com/Sowmika26/Miniproject/blob/main/Requirements/SWOT%20Analysis.png">
+
 
 # 4W's and 1'H
    
