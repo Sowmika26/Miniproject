@@ -19,7 +19,7 @@ system.It maintains the information about the personal and official details of t
 Cppcheck | Unity | Codacy
 ------ --|----------|-------|--------- | ------------
 [![C/C++ CI](https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml/badge.svg)]
-[![UNITY](https://github.com/Sowmika26/Miniproject/actions/workflows/unity.yml/badge.svg)]
+(https://github.com/Sowmika26/Miniproject/actions/workflows/unity.yml/badge.svg)][![UNITY]
 
 
 
