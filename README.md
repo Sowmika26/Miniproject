@@ -18,7 +18,7 @@ system.It maintains the information about the personal and official details of t
 # SDLC Activity Based Learning
  Code Quality 
 |---------|------------|-----------
-[![Static Code Quality- Cppcheck](https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml/badge.svg)](https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml)  
+|[![Static Code Quality- Cppcheck](https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml/badge.svg)](https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml)  |
 
 
 
