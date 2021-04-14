@@ -1,11 +1,11 @@
 PROJECT_NAME = main
 
-SRC =src\add.c \
-src\basicinfo.c \
-src\delete.c \
-src\display.c \
-src\modify.c \
-src\search.c \
+SRC =src/add.c \
+src/basicinfo.c \
+src/delete.c \
+src/display.c \
+src/modify.c \
+src/search.c \
 
 BUILD = build
 
