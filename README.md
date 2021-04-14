@@ -18,8 +18,7 @@ system.It maintains the information about the personal and official details of t
 # SDLC Activity Based Learning
 Build | Code Quality | Unity 
 |---------|------------|-----------
-[![C/C++ CI](https://github.com/Sowmika26/Miniproject/actions/workflows/c.yml/badge.svg)].(https://github.com/Sowmika26/Miniproject/actions/workflows/c.yml)|[![Static Code Quality- Cppcheck](https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml/badge.svg)](hhttps://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml)| [![Unit Testing - Unity](https://github.com/Sowmika26/Miniproject/actions/workflows/unity.yml/badge.svg)](https://github.com/Sowmika26/Miniproject/actions/workflows/unity.yml)
-
+[![C/C++ CI](https://github.com/Sowmika26/Miniproject/actions/workflows/c.yml/badge.svg)](https://github.com/Sowmika26/Miniproject/actions/workflows/c.yml)|[![Static Code Quality- Cppcheck](https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml/badge.svg)](https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml)  | [![Unit Testing - Unity](https://github.com/Sowmika26/Miniproject/actions/workflows/unity.yml/badge.svg)](https://github.com/Sowmika26/Miniproject/actions/workflows/unity.yml) 
 
 
 
