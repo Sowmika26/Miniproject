@@ -15,3 +15,27 @@ system.It maintains the information about the personal and official details of t
   3) Provides full functional reports to management of Company.
   4) The objective of this project is to provide a comprehensive approach towards the management of employee information. 
 
+# SDLC Activity Based Learning
+Visit [Pages for Report -optional](using github.io option)
+
+Build | Code Quality | Unity | [Git Inspector](using github.io option)
+------|----------|-------|--------------
+[![C/C++ CI](https://github.com/Sowmika26/Miniproject/blob/main/.github/workflows/cpp.yml)]
+(https://github.com/Sowmika26/Miniproject/blob/main/.github/workflows/cpp.yml) | [![Static Cppcheck]
+(https://github.com/Sowmika26/Miniproject/blob/main/.github/workflows/cpp.yml)
+(https://github.com/Sowmika26/Miniproject/actions/workflows/unity.yml)| [![Unity - Unit Testing]
+(https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml)]
+(https://github.com/Sowmika26/Miniproject/blob/main/.github/workflows/cpp.yml)| [![Git Inspector]
+
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Designs`         | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Testplan`      | Documents with test plans and procedures
+`5_Imagesandvideos`   | Images and Videos 
+`6_Report`   | Report of the whole project
+
+##### Whats Same: 
+* The Idea and Input Methodology
