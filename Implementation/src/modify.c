@@ -45,7 +45,7 @@ if(flag==1)
 
     printf("\n\n\t\tEnter Permanant Address: ");
     fflush(stdin);
-    fgets(e.prtaddr,200,stdin);//sohanuzzaman_soad
+    fgets(e.prtaddr,200,stdin);
     e.prtaddr[strlen(e.prtaddr)-1]='\0';
 
     printf("\n\n\t\tEnter Phone: ");
@@ -58,7 +58,7 @@ if(flag==1)
     fgets(e.mail,20,stdin);
     e.mail[strlen(e.mail)-1]='\0';
 
-    fwrite(&e,sizeof(e),1,fp);//sohanuzzaman_soad
+    fwrite(&e,sizeof(e),1,fp);
 }
 else printf("\n\n\t!!!! ERROR !!!! RECORD NOT FOUND");
 
