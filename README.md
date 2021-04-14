@@ -16,10 +16,9 @@ system.It maintains the information about the personal and official details of t
   4) The objective of this project is to provide a comprehensive approach towards the management of employee information. 
 
 # SDLC Activity Based Learning
- Code Quality 
-|---------|------------|-----------
-|[![Static Code Quality- Cppcheck](https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml/badge.svg)](https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml)  |
-
+Build | Code Quality | 
+|---------|------------|
+[![C/C++ CI](https://github.com/Sowmika26/Miniproject/actions/workflows/c.yml/badge.svg)](https://github.com/Sowmika26/Miniproject/actions/workflows/c.yml)|[![Static Code Quality- Cppcheck](https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml/badge.svg)](https://github.com/Sowmika26/Miniproject/actions/workflows/cpp.yml)
 
 
 ## Folder Structure
