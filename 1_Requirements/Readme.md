@@ -24,7 +24,7 @@ system.It maintains the information about the personal and official details of t
 
 # Defining System:-
 
-<img src="https://github.com/Sowmika26/Miniproject/blob/main/Requirements/system%20design.png">
+<img src="https://github.com/Sowmika26/Miniproject/blob/main/1_Requirements/system%20design.png">
 
 # Explanation:-
   ## Employee Management has some features.
@@ -35,7 +35,7 @@ system.It maintains the information about the personal and official details of t
        Easily Add, Delete, Modify Records.
        Various Essential Queries.
 # SWOT Analysis:
-  <img src="https://github.com/Sowmika26/Miniproject/blob/main/Requirements/SWOT%20Analysis.png">
+  <img src="https://github.com/Sowmika26/Miniproject/blob/main/1_Requirements/SWOT%20Analysis.png">
 
 
 # 4W's and 1'H
