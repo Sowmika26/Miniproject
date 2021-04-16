@@ -1,8 +1,7 @@
 #include "record.h"
 #include "unity.h"
 
-Name =NULL;
-id result={0};
+
 /* Required by the unity test framework */
 void setUp()
 {
@@ -11,10 +10,47 @@ void setUp()
 void tearDown()
 {
 }
+
+    int id;
+    char name[100];
+    float sal;
+    char psaddr[200];
+    char prtaddr[200];
+    char phone[15];
+    char mail[20];
+
+ 
+FILE *f = NULL;
+FILE *r = NULL;
+FILE *rt = NULL;
+
+void check_openFile(void){
+    TEST_ASSERT_EQUAL(SUCCESS,indexFile("INDEX.DAT","rb+",&f));
+    TEST_ASSERT_EQUAL(SUCCESS,openFile("RECORD.DAT","rb+",&r)); 
+}
 void test_add(void){
 
+    id = 1;
+    strcpy(name, "sowmika");
+    sal=30000;
+    strcpy(psaddr, "Guntur");
+    strcpy(prtaddr, "Guntur");
+    phone=9848032919;
+    strcpy(mail,"sowmikakurra@gmail.com");
+    
+    
+
+    start = add(start,id,name,sal,psaddr,prtaddr,phone,mail);
+    
+    fseek(f,0,SEEK_END);
+    fwrite(&id,4,1,f);
+
     TEST_ASSERT_EQUAL(1,start->id);
-    TEST_ASSERT_EQUAL(1,start->Name);
+    TEST_ASSERT_EQUAL_STRING("sowmika",start->name);
+    TEST_ASSERT_EQUAL_STRING("Guntur",start->psaddr);
+    TEST_ASSERT_EQUAL_STRING("9848032919",start->phone);
+
+}
 
 }
 void test_delete(void){
